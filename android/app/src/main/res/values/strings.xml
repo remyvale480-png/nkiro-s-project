@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Piko Math</string>
+    <string name="mascot_name">Piko</string>
+    <string name="tagline">Math, one step at a time.</string>
+
+    <string name="tab_snap">Snap</string>
+    <string name="tab_type">Type</string>
+    <string name="tab_draw">Draw</string>
+
+    <string name="problem_input_label">Check or edit your math problem</string>
+    <string name="problem_input_hint">e.g. 2x + 5 = 17</string>
+    <string name="solve_cta">Solve with Piko</string>
+
+    <string name="state_empty_title">Ready when you are!</string>
+    <string name="state_empty_body">Snap a photo, sketch with your finger, or type a math problem.</string>
+    <string name="state_loading_title">Piko is working through the steps…</string>
+    <string name="state_error_title">Oops, Piko hit a bump</string>
+    <string name="retry_cta">Try again</string>
+
+    <string name="verified_badge">Verified answer</string>
+    <string name="unverified_badge">Check carefully — low certainty</string>
+    <string name="final_answer_label">Final Answer</string>
+    <string name="why_label">Why?</string>
+    <string name="share_cta">Share</string>
+</resources>

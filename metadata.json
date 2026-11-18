@@ -1,0 +1,6 @@
+{
+  "name": "Piko Math",
+  "description": "Math, one step at a time. A learning-first AI math tutor with camera snap, handwriting draw, math keyboard, and verified step-by-step solutions.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

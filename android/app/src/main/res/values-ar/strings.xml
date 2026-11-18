@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Piko Math</string>
+    <string name="mascot_name">بيكو</string>
+    <string name="tagline">الرياضيات، خطوة بخطوة.</string>
+
+    <string name="tab_snap">تصوير</string>
+    <string name="tab_type">كتابة</string>
+    <string name="tab_draw">رسم</string>
+
+    <string name="problem_input_label">راجع أو عدّل المسألة الرياضية</string>
+    <string name="problem_input_hint">مثال: 2x + 5 = 17</string>
+    <string name="solve_cta">حل مع بيكو</string>
+
+    <string name="state_empty_title">جاهز متى كنت مستعداً!</string>
+    <string name="state_empty_body">التقط صورة أو ارسم بإصبعك أو اكتب مسألة رياضية.</string>
+    <string name="state_loading_title">بيكو يفكر في الخطوات…</string>
+    <string name="state_error_title">عذراً، واجه بيكو مشكلة</string>
+    <string name="retry_cta">حاول مجدداً</string>
+
+    <string name="verified_badge">إجابة متحقق منها</string>
+    <string name="unverified_badge">تحقق بعناية — يقين منخفض</string>
+    <string name="final_answer_label">الإجابة النهائية</string>
+    <string name="why_label">لماذا؟</string>
+    <string name="share_cta">مشاركة</string>
+</resources>
